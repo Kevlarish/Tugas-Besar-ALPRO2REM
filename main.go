@@ -12,7 +12,7 @@ func main() {
 	var selesai bool = false
 
 	for !selesai {
-		fmt.Println("\n=== MODULAR ABSENSI SISWA ===")
+		fmt.Println("\n=== APLIKASI ABSENSI SISWA ===")
 		fmt.Println("1. Tambah Siswa")
 		fmt.Println("2. Kelola Absensi")
 		fmt.Println("3. Ubah/Hapus Siswa")
